@@ -11,7 +11,7 @@ btn.addEventListener("click", function(){
       numberList.innerHTML += "<li> Buzz </li>";
 
     } else {
-      numberList.innerHTML += "<list>" + i +  " </list>";
+      numberList.innerHTML += "<li>" + i +  " </li>";
 
     }
   }
